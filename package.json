@@ -1,0 +1,22 @@
+{
+  "name": "nut-codes",
+  "version": "0.0.1",
+  "description": "Machine-readable nutrition label",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nut-codes/server.git"
+  },
+  "keywords": [
+    "nutrition"
+  ],
+  "author": "Frank Schmitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nut-codes/server/issues"
+  },
+  "homepage": "https://github.com/nut-codes/server#readme"
+}
